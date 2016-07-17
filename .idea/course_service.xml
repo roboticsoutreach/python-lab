@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CCProjectService">
+    <option name="course">
+      <Course>
+        <option name="authors">
+          <list>
+            <Author />
+          </list>
+        </option>
+        <option name="description" value="The programming section of the 2016 computing and microelectronics course" />
+        <option name="lessons">
+          <list>
+            <Lesson>
+              <option name="index" value="1" />
+              <option name="name" value="lesson1" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="task1" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+          </list>
+        </option>
+        <option name="name" value="Smallpeice Computing and Microelectronics 2016" />
+      </Course>
+    </option>
+  </component>
+</project>
