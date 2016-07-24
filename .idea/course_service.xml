@@ -3,11 +3,6 @@
   <component name="CCProjectService">
     <option name="course">
       <Course>
-        <option name="authors">
-          <list>
-            <Author />
-          </list>
-        </option>
         <option name="description" value="The programming section of the 2016 computing and microelectronics course" />
         <option name="lessons">
           <list>
@@ -24,6 +19,7 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>

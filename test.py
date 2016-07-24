@@ -1,11 +1,6 @@
 import time
 
-import os
-
-print os.getcwd()
-
-from sr import *
-
+from sr.robot import *
 
 SEARCHING, DRIVING = range(2)
 
