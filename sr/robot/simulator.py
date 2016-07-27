@@ -2,15 +2,17 @@ from __future__ import division
 
 import threading, time, pygame
 
-from arenas import PiratePlunderArena, CTFArena, SunnySideUpArena
+from arenas import PiratePlunderArena, CTFArena, SunnySideUpArena, Smallpeice2016Arena
 from display import Display
 
-DEFAULT_GAME = 'pirate-plunder'
+DEFAULT_GAME = 'smallpeice-2016'
 
-GAMES = {'pirate-plunder': PiratePlunderArena,
+GAMES = {
+         'pirate-plunder': PiratePlunderArena,
          'ctf': CTFArena,
          'sunny-side-up': SunnySideUpArena,
-        }
+         'smallpeice-2016': Smallpeice2016Arena,
+         }
 
 class Simulator(object):
     def __init__(self, config={}, size=(8, 8), frames_per_second=30, background=True):
@@ -42,8 +44,8 @@ class Simulator(object):
 
         while True:
             if any(event.type == pygame.QUIT
-                    or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE)
-                    for event in pygame.event.get()):
+                   or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE)
+                   for event in pygame.event.get()):
                 break
 
             self.display.tick(1/frames_per_second)
