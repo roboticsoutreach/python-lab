@@ -1,7 +1,8 @@
+import pypybox2d
+
 from game_object import GameObject
 from vision import create_marker_info_by_type, MARKER_TOKEN, MARKER_ARENA
 
-import pypybox2d
 
 class Token(GameObject):
     grabbable = True
@@ -52,10 +53,10 @@ class Token(GameObject):
 
     @property
     def surface_name(self):
-        return 'sr/token{0}.png'.format('_grabbed' if self.grabbed else '')
+        return 'images/token{0}.png'.format('_grabbed' if self.grabbed else '')
 
 class WallMarker(GameObject):
-    surface_name = 'sr/wall_marker.png'
+    surface_name = 'images/wall_marker.png'
 
     def __init__(self, arena, number, location=(0,0), heading=0):
         super(WallMarker, self).__init__(arena)

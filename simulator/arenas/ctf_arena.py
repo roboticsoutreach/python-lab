@@ -43,7 +43,7 @@ class CTFWall(GameObject):
                                           friction=0.3)
         super(CTFWall, self).__init__(arena)
 
-    surface_name = 'sr/wall.png'
+    surface_name = 'images/wall.png'
 
 class CTFArena(Arena):
     start_locations = [(-3.6, -3.6),

@@ -2,13 +2,14 @@
 
 from __future__ import division
 
-import time, exceptions
+import exceptions
+import time
 from math import pi, sin, cos, degrees, hypot, atan2
+
+import pypybox2d
 
 from game_object import GameObject
 from vision import Marker, Point, PolarCoord, create_marker_info_by_type, MARKER_ROBOT
-
-import pypybox2d
 
 SPEED_SCALE_FACTOR = 0.02
 MAX_MOTOR_SPEED = 100
@@ -23,40 +24,33 @@ class AlreadyHoldingSomethingException(exceptions.Exception):
     def __str__(self):
         return "The robot is already holding something."
 
-class MotorChannel(object):
-    def __init__(self, robot):
-        self._power = 0
-        self._robot = robot
-
-    @property
-    def power(self):
-        return self._power
-
-    @power.setter
-    def power(self, value):
-        value = min(max(value, -MAX_MOTOR_SPEED), MAX_MOTOR_SPEED)
-        with self._robot.lock:
-            self._power = value
-
 class Motor:
-    """Represents a motor board."""
+    """Represents a v3 motor board."""
     # This is named `Motor` instead of `MotorBoard` for consistency with pyenv
 
     def __init__(self, robot):
         self._robot = robot
-        self.serialnum = "SIM_MBv4"
+        self.serialnum = "SIM_MBv3"
+        self._target = 0
 
-        self.m0 = MotorChannel(robot)
-        self.m1 = MotorChannel(robot)
+    @property
+    def target(self):
+        return self._target
+
+    @target.setter
+    def target(self, value):
+        value = min(max(value, -MAX_MOTOR_SPEED), MAX_MOTOR_SPEED)
+        with self._robot.lock:
+            self._target = value
 
     def __repr__(self):
-        return "Motor( serialnum = \"{0}\" ) (Simulated Motor Board v4)" \
+        return "Motor( serialnum = \"{0}\" ) (Simulated Motor Board v3)" \
                .format(self.serialnum)
 
 class SimRobot(GameObject):
     width = 0.45
 
-    surface_name = 'sr/robot.png'
+    surface_name = 'images/robot.png'
 
     _holding = None
 
@@ -94,7 +88,7 @@ class SimRobot(GameObject):
         self._body = None
         self.zone = 0
         super(SimRobot, self).__init__(simulator.arena)
-        self.motors = [Motor(self)]
+        self.motors = [Motor(self), Motor(self)]
         make_body = simulator.arena._physics_world.create_body
         half_width = self.width * 0.5
         with self.arena.physics_lock:
@@ -130,9 +124,9 @@ class SimRobot(GameObject):
         with self.lock, self.arena.physics_lock:
             half_width = self.width * 0.5
             # left wheel
-            self._apply_wheel_force(-half_width, self.motors[0].m0.power)
+            self._apply_wheel_force(-half_width, self.motors[0].target)
             # right wheel
-            self._apply_wheel_force( half_width, self.motors[0].m1.power)
+            self._apply_wheel_force( half_width, self.motors[1].target)
             # kill the lateral velocity
             right_normal = self._body.get_world_vector((0, 1))
             lateral_vel = (right_normal.dot(self._body.linear_velocity) *

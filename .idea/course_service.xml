@@ -3,22 +3,91 @@
   <component name="CCProjectService">
     <option name="course">
       <Course>
-        <option name="description" value="The programming section of the 2016 computing and microelectronics course" />
+        <option name="description" value="The robot-specific programming section of the 2016 computing and microelectronics course" />
         <option name="lessons">
           <list>
             <Lesson>
               <option name="index" value="1" />
-              <option name="name" value="lesson1" />
+              <option name="name" value="Python in Action" />
               <option name="taskList">
                 <list>
                   <Task>
                     <option name="index" value="1" />
-                    <option name="name" value="task1" />
+                    <option name="name" value="Intro" />
                     <option name="taskFiles">
                       <map>
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="38" />
+                                    <option name="possibleAnswer" value="sr import *" />
+                                    <option name="start" value="5" />
+                                    <option name="taskText" value="#Replace this comment with your answer" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Using the Simulator" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="40" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value=" Robot()&#10;" />
+                                    <option name="start" value="3" />
+                                    <option name="taskText" value="# Start up (initialise) your robot here!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Turning on motors" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="13" />
+                                    <option name="line" value="5" />
+                                    <option name="possibleAnswer" value="[0].target = 100" />
+                                    <option name="start" value="8" />
+                                    <option name="taskText" value=" # Finish me!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
                               <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
@@ -33,7 +102,7 @@
             </Lesson>
           </list>
         </option>
-        <option name="name" value="Smallpeice Computing and Microelectronics 2016" />
+        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v1.0" />
       </Course>
     </option>
   </component>

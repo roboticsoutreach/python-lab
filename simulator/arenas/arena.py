@@ -1,10 +1,9 @@
 from __future__ import division
 
 from math import pi
-from random import random
 
-from ..display import get_surface, PIXELS_PER_METER
-from ..markers import WallMarker, Token
+from simulator.display import get_surface, PIXELS_PER_METER
+from simulator.markers import WallMarker, Token
 
 import threading
 
@@ -40,7 +39,7 @@ class Arena(object):
     start_locations = [(0, 0)]
     start_headings = [0]
 
-    motif_name = 'sr/sr_round_flat.png'
+    motif_name = 'images/sr_round_flat.png'
 
     @property
     def left(self):

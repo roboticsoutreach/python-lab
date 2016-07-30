@@ -43,7 +43,7 @@ class Podium(GameObject):
                                           friction=0.3)
         super(Podium, self).__init__(arena)
 
-    surface_name = 'sr/podium.png'
+    surface_name = 'images/podium.png'
 
 class Smallpeice2016Arena(Arena):
     start_locations = [(-3.6, -3.6),

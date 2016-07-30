@@ -2,9 +2,12 @@
 import argparse
 import threading
 
+import sys
 import yaml
 
-from sr.robot import *
+from simulator.sim_robot import SimRobot
+from simulator.simulator import Simulator
+import simulator.vision
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--config',
@@ -36,7 +39,7 @@ class RobotThread(threading.Thread):
         super(RobotThread, self).__init__(*args, **kwargs)
         self.zone = zone
         self.script = script
-        self.daemon = True
+        self.setDaemon(True)
 
     def run(self):
         def robot():
@@ -47,23 +50,20 @@ class RobotThread(threading.Thread):
                 robot_object.heading = sim.arena.start_headings[self.zone]
                 return robot_object
 
+        # inject the vision code so the robot has access to the rest of the simulator
+        sys.modules['sr'] = simulator.vision
+        # inject Robot as an initialised SimRobot
         exec self.script in {'Robot': robot}
 
+
+# Run the robot in a different thread.
 threads = []
 for zone, robot in enumerate(robot_scripts):
     thread = RobotThread(zone, robot)
     thread.start()
     threads.append(thread)
 
+# Run the simulator
 sim.run()
 
-# Warn PyScripter users that despite the exit of the main thread, the daemon
-# threads won't actually have gone away. See commit 8cad7add for more details.
-threads = [t for t in threads if t.is_alive()]
-if threads:
-    print("WARNING: {0} robot code threads still active.".format(len(threads)))
-    #####                                                               #####
-    # If you see the above warning in PyScripter and you want to kill your  #
-    # robot code you can press Ctrl+F2 to re-initialize the interpreter and #
-    # stop the code running.                                                #
-    #####                                                               #####
+# In pycharm, threads die after the main thread executes
