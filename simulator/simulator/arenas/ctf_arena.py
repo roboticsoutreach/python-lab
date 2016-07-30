@@ -5,7 +5,7 @@ from random import random
 from math import pi
 
 from arena import Arena, ARENA_MARKINGS_COLOR, ARENA_MARKINGS_WIDTH
-from ..markers import Token
+from simulator.markers import Token
 from ..game_object import GameObject
 
 import pypybox2d

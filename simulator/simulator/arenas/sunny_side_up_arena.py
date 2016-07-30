@@ -2,7 +2,6 @@ from __future__ import division
 
 import pygame
 from math import pi
-from random import random
 
 from arena import Arena, ARENA_MARKINGS_COLOR, ARENA_MARKINGS_WIDTH, \
                     CORNER_COLOURS, fade_to_white

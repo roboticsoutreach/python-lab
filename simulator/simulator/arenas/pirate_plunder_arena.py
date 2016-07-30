@@ -1,9 +1,9 @@
 from __future__ import division
 
-import pygame
 from math import pi
 from random import random
 
+import pygame
 from arena import Arena, ARENA_MARKINGS_COLOR, ARENA_MARKINGS_WIDTH
 from ..markers import Token
 

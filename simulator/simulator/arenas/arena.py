@@ -2,8 +2,8 @@ from __future__ import division
 
 from math import pi
 
-from simulator.display import get_surface, PIXELS_PER_METER
-from simulator.markers import WallMarker, Token
+from ..display import get_surface, PIXELS_PER_METER
+from ..markers import WallMarker, Token
 
 import threading
 

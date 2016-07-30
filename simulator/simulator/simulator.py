@@ -3,8 +3,8 @@ from __future__ import division
 import os
 import threading, pygame
 
-from .arenas import PiratePlunderArena, CTFArena, SunnySideUpArena, Smallpeice2016Arena
-from .display import Display
+from arenas import PiratePlunderArena, CTFArena, SunnySideUpArena, Smallpeice2016Arena
+from display import Display
 
 DEFAULT_GAME = 'smallpeice-2016'
 
@@ -49,7 +49,9 @@ class Simulator(object):
             if any(event.type == pygame.QUIT
                    or (event.type == pygame.KEYDOWN and event.key == pygame.K_ESCAPE)
                    for event in pygame.event.get()):
-                break
+                # KILL IT ALL WITH FIRE!!
+                # must be _exit with an error code to force the other threads to die too.
+                os._exit(0)
 
             self.display.tick(1 / frames_per_second)
             clock.tick(frames_per_second)

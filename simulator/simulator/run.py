@@ -5,9 +5,9 @@ import threading
 import sys
 import yaml
 
-from simulator.sim_robot import SimRobot
-from simulator.simulator import Simulator
-import simulator.vision
+from sim_robot import SimRobot
+from simulator import Simulator
+import vision
 
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--config',
@@ -51,7 +51,7 @@ class RobotThread(threading.Thread):
                 return robot_object
 
         # inject the vision code so the robot has access to the rest of the simulator
-        sys.modules['sr'] = simulator.vision
+        sys.modules['sr'] = vision
         # inject Robot as an initialised SimRobot
         exec self.script in {'Robot': robot}
 

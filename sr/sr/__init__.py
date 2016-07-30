@@ -1,7 +1,5 @@
-import sr
 from simulator.sim_robot import SimRobot
 from simulator.simulator import Simulator
-
 
 zone = 0
 
@@ -37,3 +35,7 @@ print "Starting simulator..."
 sim = init_sim()
 # set up the new Robot() function
 Robot = robot_gen(zone)
+
+
+# Import everything for the robot to see
+from simulator.vision import *
