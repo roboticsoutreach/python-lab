@@ -1,0 +1,5 @@
+sr/__init__.py
+sr.egg-info/PKG-INFO
+sr.egg-info/SOURCES.txt
+sr.egg-info/dependency_links.txt
+sr.egg-info/top_level.txt

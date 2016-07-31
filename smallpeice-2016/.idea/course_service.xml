@@ -14,23 +14,83 @@
                   <Task>
                     <option name="index" value="1" />
                     <option name="name" value="Intro" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Using the Simulator" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Turning on motors" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="4" />
+                    <option name="name" value="Turning on the spot" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="5" />
+                    <option name="name" value="Seeing things" />
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="2" />
+              <option name="name" value="Applying Python to Robots" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Intro" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="2" />
+                    <option name="name" value="Using the Simulator" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="3" />
+                    <option name="name" value="Moving motors" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="4" />
+                    <option name="name" value="Turning on the spot" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="5" />
+                    <option name="name" value="Seeing things" />
+                  </Task>
+                  <Task>
+                    <option name="index" value="6" />
+                    <option name="name" value="Getting the location of things" />
                     <option name="taskFiles">
                       <map>
                         <entry key="task.py">
                           <value>
                             <TaskFile>
-                              <option name="answerPlaceholders">
-                                <list>
-                                  <AnswerPlaceholder>
-                                    <option name="index" value="0" />
-                                    <option name="length" value="38" />
-                                    <option name="possibleAnswer" value="sr import *" />
-                                    <option name="start" value="5" />
-                                    <option name="taskText" value="#Replace this comment with your answer" />
-                                  </AnswerPlaceholder>
-                                </list>
-                              </option>
-                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                </list>
+              </option>
+            </Lesson>
+            <Lesson>
+              <option name="index" value="3" />
+              <option name="name" value="Python in Robot" />
+              <option name="taskList">
+                <list>
+                  <Task>
+                    <option name="index" value="1" />
+                    <option name="name" value="Intro" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -41,25 +101,12 @@
                   </Task>
                   <Task>
                     <option name="index" value="2" />
-                    <option name="name" value="Using the Simulator" />
+                    <option name="name" value="Using the simulator" />
                     <option name="taskFiles">
                       <map>
                         <entry key="task.py">
                           <value>
                             <TaskFile>
-                              <option name="answerPlaceholders">
-                                <list>
-                                  <AnswerPlaceholder>
-                                    <option name="index" value="0" />
-                                    <option name="length" value="40" />
-                                    <option name="line" value="2" />
-                                    <option name="possibleAnswer" value=" Robot()&#10;" />
-                                    <option name="start" value="3" />
-                                    <option name="taskText" value="# Start up (initialise) your robot here!" />
-                                  </AnswerPlaceholder>
-                                </list>
-                              </option>
-                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -76,19 +123,54 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
-                              <option name="answerPlaceholders">
-                                <list>
-                                  <AnswerPlaceholder>
-                                    <option name="index" value="0" />
-                                    <option name="length" value="13" />
-                                    <option name="line" value="5" />
-                                    <option name="possibleAnswer" value="[0].target = 100" />
-                                    <option name="start" value="8" />
-                                    <option name="taskText" value=" # Finish me!" />
-                                  </AnswerPlaceholder>
-                                </list>
-                              </option>
-                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="4" />
+                    <option name="name" value="Turning on the spot" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="5" />
+                    <option name="name" value="Seeing things" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="6" />
+                    <option name="name" value="Getting the location of things" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -102,7 +184,7 @@
             </Lesson>
           </list>
         </option>
-        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v1.0" />
+        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v1.2.7" />
       </Course>
     </option>
   </component>

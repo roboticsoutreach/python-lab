@@ -1,5 +1,6 @@
 # This code is an interactive way of running the python code in the simulator
 import argparse
+import os
 import threading
 
 import sys
@@ -9,10 +10,12 @@ from sim_robot import SimRobot
 from simulator import Simulator
 import vision
 
+default_config = "/games/smallpeice-2016.yaml"
+
 parser = argparse.ArgumentParser()
 parser.add_argument('-c', '--config',
                     type=argparse.FileType('r'),
-                    default='games/smallpeice-2016.yaml')
+                    default=os.path.realpath(os.path.dirname(os.path.realpath(__file__)) + default_config))
 parser.add_argument('robot_scripts',
                     type=argparse.FileType('r'),
                     nargs='*')

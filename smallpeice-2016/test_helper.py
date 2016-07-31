@@ -1,3 +1,4 @@
+import os
 import sys
 
 
@@ -186,9 +187,9 @@ def get_answer_placeholders():
     f.close()
     return windows
 
-
 def run_common_tests(error_text="Please, reload file and try again"):
     test_is_initial_text()
     test_is_not_empty()
     test_answer_placeholders_text_deleted()
-    test_file_importable()
+    # Don't run this test as it creates multiple instances of the simulator
+    # test_file_importable()

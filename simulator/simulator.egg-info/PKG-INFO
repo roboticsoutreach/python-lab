@@ -1,0 +1,16 @@
+Metadata-Version: 1.1
+Name: simulator
+Version: 1.0
+Summary: SR Simulator
+Home-page: https://github.com/srobo-southampton/python-lab
+Author: Student Robotics
+Author-email: abarrett-sprot@studentrobotics.org
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7

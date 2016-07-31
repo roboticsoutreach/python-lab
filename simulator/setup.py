@@ -34,6 +34,12 @@ setup(
         'Programming Language :: Python :: 2.7',
     ],
 
+    install_requires=[
+    ],
+
+    package_data={'': ['*.png','*.yaml']},
+    include_package_data=True,
+
     # You can just specify the packages manually here if your project is
     # simple. Or you can use find_packages().
     packages=find_packages(exclude=['contrib', 'docs', 'tests']),
