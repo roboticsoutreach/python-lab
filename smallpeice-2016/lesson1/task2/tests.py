@@ -1,13 +1,12 @@
 import sr_dummy
 import sys
 sys.modules['sr'] = sr_dummy
-from test_helper import run_common_tests, failed, passed, get_answer_placeholders
+from test_helper import run_common_tests, failed, passed, get_answer_placeholders, import_task_file
 
 
 def test_answer_placeholders():
-    placeholders = get_answer_placeholders()
-    placeholder = placeholders[0]
-    if "Robot(" in placeholder:
+    task = import_task_file()
+    if hasattr(task, "R") and isinstance(task.R, sr_dummy.Robot):
         passed("Great, now you have R as a Robot object")
     else:
         failed("Not quite, read the description and try again")

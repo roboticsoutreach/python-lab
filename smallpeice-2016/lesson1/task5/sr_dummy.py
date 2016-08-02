@@ -11,6 +11,8 @@ from collections import namedtuple as __namedtuple__
 # Constants
 MARKER_ARENA = MARKER_ROBOT = MARKER_TOKEN = MARKER_PEDESTAL = 13
 
+robot = None
+
 # Power
 
 class Battery:
@@ -56,14 +58,14 @@ Point = __namedtuple__( "Point", "image world polar" )
 class Marker:
     def __init__(self):
         # Aliases
-        self.info = MarkerInfo()
+        self.info = MarkerInfo(0, 13, 0, 1)
         self.timestamp = 3.14159
         self.res = (800, 600)
         self.vertices = []
-        self.centre = Point()
+        self.centre = Point(ImageCoord(0, 0), WorldCoord(0, 0, 0), PolarCoord(1, 0, 0))
         self.dist = 42
         self.rot_y = 13
-        self.orientation = Orientation()
+        self.orientation = Orientation(0, 0, 0)
 
 # Logic Expressions
 
@@ -85,6 +87,8 @@ class Robot:
         self.io = [JointIO()]
         self.power = Power()
         self.servos = [[0] * 8]
+        global robot
+        robot = self
 
     def see(self, res = (800, 600), stats = False):
         """
