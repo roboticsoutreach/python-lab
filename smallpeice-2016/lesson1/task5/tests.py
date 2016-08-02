@@ -1,3 +1,6 @@
+import sr_dummy
+import sys
+sys.modules['sr'] = sr_dummy
 import time
 import threading
 from Queue import Queue
@@ -14,7 +17,7 @@ class Motor(object):
 
 class Marker(object):
     def __init__(self, type):
-        this.info.
+        self.info.marker_type = type
 
 
 class RSim(object):
@@ -26,14 +29,22 @@ class RSim(object):
 
 
 def test_answers():
-    pool = ThreadPool(processes=1)
-    R = RSim()
     task = import_task_file()
-
-    if result:
-        failed(result)
-    else:
+    markers = [Marker(MARKER_POISON_TOKEN), Marker(MARKER_TOKEN), Marker(MARKER_TOKEN), Marker(MARKER_TOKEN)]
+    filtered_markers = task.find_token_markers(markers)
+    if not filtered_markers:
+        failed("Your find_tokens_markers must return something")
+    elif filtered_markers is [x for x in markers if x.info.marker_type is MARKER_TOKEN]:
         passed()
+    else:failed("Your function find_token_markers code doesn't return a correct value")
+
+    filtered_markers = task.find_poison_markers(markers)
+    if not filtered_markers:
+        failed("Your find_poison_markers must return something")
+    elif filtered_markers is [x for x in markers if x.info.marker_type is MARKER_POISON_TOKEN]:
+        passed()
+    else:
+        failed("Your function find_poison_markers code doesn't return a correct value")
 
 
 if __name__ == '__main__':

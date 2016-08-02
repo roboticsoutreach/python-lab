@@ -1,72 +1,21 @@
 {
   "lessons": [
     {
-      "title": "Python in Action",
-      "task_list": [
-        {
-          "name": "Intro",
-          "task_files": {}
-        },
-        {
-          "name": "Using the Simulator",
-          "task_files": {}
-        },
-        {
-          "name": "Turning on motors",
-          "task_files": {}
-        },
-        {
-          "name": "Turning on the spot",
-          "task_files": {}
-        },
-        {
-          "name": "Seeing things",
-          "task_files": {}
-        }
-      ]
-    },
-    {
-      "title": "Applying Python to Robots",
-      "task_list": [
-        {
-          "name": "Intro",
-          "task_files": {}
-        },
-        {
-          "name": "Using the Simulator",
-          "task_files": {}
-        },
-        {
-          "name": "Moving motors",
-          "task_files": {}
-        },
-        {
-          "name": "Turning on the spot",
-          "task_files": {}
-        },
-        {
-          "name": "Seeing things",
-          "task_files": {}
-        },
-        {
-          "name": "Getting the location of things",
-          "task_files": {
-            "task.py": {
-              "placeholders": [],
-              "name": "task.py"
-            }
-          }
-        }
-      ]
-    },
-    {
       "title": "Python in Robot",
       "task_list": [
         {
           "name": "Intro",
           "task_files": {
             "task.py": {
-              "placeholders": [],
+              "placeholders": [
+                {
+                  "line": 0,
+                  "start": 4,
+                  "hint": "",
+                  "possible_answer": " sr import *",
+                  "length": 23
+                }
+              ],
               "name": "task.py"
             }
           }
@@ -75,7 +24,15 @@
           "name": "Using the simulator",
           "task_files": {
             "task.py": {
-              "placeholders": [],
+              "placeholders": [
+                {
+                  "line": 2,
+                  "start": 4,
+                  "hint": "",
+                  "possible_answer": "Robot()",
+                  "length": 28
+                }
+              ],
               "name": "task.py"
             }
           }
@@ -84,7 +41,22 @@
           "name": "Turning on motors",
           "task_files": {
             "task.py": {
-              "placeholders": [],
+              "placeholders": [
+                {
+                  "line": 9,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "[0].target \u003d 100",
+                  "length": 22
+                },
+                {
+                  "line": 15,
+                  "start": 12,
+                  "hint": "",
+                  "possible_answer": "[0].target \u003d 0",
+                  "length": 24
+                }
+              ],
               "name": "task.py"
             }
           }
@@ -93,7 +65,36 @@
           "name": "Turning on the spot",
           "task_files": {
             "task.py": {
-              "placeholders": [],
+              "placeholders": [
+                {
+                  "line": 10,
+                  "start": 15,
+                  "hint": "",
+                  "possible_answer": ".target \u003d speed",
+                  "length": 23
+                },
+                {
+                  "line": 11,
+                  "start": 15,
+                  "hint": "",
+                  "possible_answer": ".target \u003d -speed",
+                  "length": 23
+                },
+                {
+                  "line": 17,
+                  "start": 15,
+                  "hint": "",
+                  "possible_answer": ".target \u003d 0",
+                  "length": 23
+                },
+                {
+                  "line": 18,
+                  "start": 15,
+                  "hint": "",
+                  "possible_answer": ".target \u003d 0",
+                  "length": 23
+                }
+              ],
               "name": "task.py"
             }
           }
@@ -102,7 +103,22 @@
           "name": "Seeing things",
           "task_files": {
             "task.py": {
-              "placeholders": [],
+              "placeholders": [
+                {
+                  "line": 29,
+                  "start": 3,
+                  "hint": "",
+                  "possible_answer": " for marker in see_output:\n        if marker.info.marker_type \u003d\u003d marker_type_i_want:\n            token_markers.append(marker)\n    return token_markers",
+                  "length": 21
+                },
+                {
+                  "line": 37,
+                  "start": 4,
+                  "hint": "",
+                  "possible_answer": "for marker in see_output:\n        if marker.info.marker_type \u003d\u003d marker_type_i_want:\n            token_markers.append(marker)\n    return token_markers",
+                  "length": 21
+                }
+              ],
               "name": "task.py"
             }
           }
@@ -111,7 +127,15 @@
           "name": "Getting the location of things",
           "task_files": {
             "task.py": {
-              "placeholders": [],
+              "placeholders": [
+                {
+                  "line": 40,
+                  "start": 4,
+                  "hint": "",
+                  "possible_answer": "for m in see_output:\n        yield (m.polar.length, m.polar.rot_y)",
+                  "length": 20
+                }
+              ],
               "name": "task.py"
             }
           }
@@ -120,7 +144,7 @@
     }
   ],
   "description": "The robot-specific programming section of the 2016 computing and microelectronics course",
-  "name": "Smallpeice Computing and Microelectronics 2016 v1.2.6",
+  "name": "Smallpeice Computing and Microelectronics 2016 v1.5.3",
   "authors": [],
   "language": "Python"
 }

@@ -1,3 +1,6 @@
+import sr_dummy
+import sys
+sys.modules['sr'] = sr_dummy
 import time
 import threading
 from Queue import Queue
@@ -20,7 +23,7 @@ class RSim:
 def checker(R):
     print R.motors[0].target
     print R.motors[1].target
-    time.sleep(0.1)
+    time.sleep(0.2)
     if abs(R.motors[0].target) != 100:
         return "The motors should be set to full power (100 and -100)"
     if R.motors[0].target != -R.motors[1].target:

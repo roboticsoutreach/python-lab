@@ -1,0 +1,1 @@
+pylint --rcfile=/dev/null --errors-only --output-format=parseable --reports=n checkref.py

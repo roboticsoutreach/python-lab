@@ -1,8 +1,8 @@
 import time
-
 from sr import *
 
 R = Robot()
+
 
 def turn(speed, duration):
     """
@@ -20,6 +20,7 @@ def turn(speed, duration):
     R.motors[0].target = 0
     R.motors[1].target = 0
 
+
 def find_token_markers(see_output):
     """
         This should return a list of of markers which represent a token
@@ -32,16 +33,14 @@ def find_token_markers(see_output):
             token_markers.append(marker)
     return token_markers
 
-def find_poison_markers(see_output):
+
+def get_distances(see_output):
     """
-        This should return a list of of markers for the poison token
+        This should return a list of polar co-ordinates of each marker
     """
-    token_markers = []
-    marker_type_i_want = MARKER_POISON_TOKEN
-    for marker in see_output:
-        if marker.info.marker_type == marker_type_i_want:
-            token_markers.append(marker)
-    return token_markers
+    for m in see_output:
+        yield (m.polar.length, m.polar.rot_y)
+
 
 # Turn to the right to see the markers next to the robot
 turn(100, 0.15)
@@ -55,5 +54,4 @@ see_output = R.see()
 token_markers = find_token_markers(see_output)
 
 # Print the results
-for marker in token_markers:
-    print "Marker seen,", marker.dist, "metres Away!"
+print get_distances(token_markers)

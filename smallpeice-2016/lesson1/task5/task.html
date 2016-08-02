@@ -1,4 +1,13 @@
 <html>
-Write your task text here.
-<br>
+Your robot will almost certainly need some code to see where markers are. To get the list of markers the robot can see,
+you just call:
+<br><br>
+R.see()
+<br><br>
+It will return a list of markers, each marker will have a type, and an 'offset', which is the id of the marker.
+One very useful function for vision code is something which takes in all markers, and only returns markers which suit a
+certain criteria. (for example, return only tokens, instead of the poison token)
+<br><br>
+This task involves modifying 'find_token_markers' and 'find_poison_markers' so that they both return either only
+markers which are not poisonous, and markers which are poisonous respectively.
 </html>

@@ -1,6 +1,8 @@
 import os
 import sys
-
+sys.path.insert(0, "dummy")
+import sr as dummy
+sys.modules['sr'] = dummy
 
 def get_file_text(path):
     """ Returns file text by path"""
@@ -51,6 +53,10 @@ def check_importable_path(path):
 
 
 def import_file(path):
+    import inspect
+
+    with open("C:\\Users\\Andy\\exception.txt", 'a') as file:
+        print >>file, inspect.getframeinfo(inspect.getouterframes(inspect.currentframe())[1][0])
     """ Returns imported file """
     if sys.version_info[0] == 2 or sys.version_info[1] < 3:
         import imp

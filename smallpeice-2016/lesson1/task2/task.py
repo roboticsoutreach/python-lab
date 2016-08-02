@@ -1,3 +1,3 @@
 from sr import *
 
-R =# Start up (initialise) your robot here!
+R = None   # Add your code here!

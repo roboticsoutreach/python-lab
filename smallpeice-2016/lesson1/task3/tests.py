@@ -1,8 +1,12 @@
+import sr_dummy
+import sys
+sys.modules['sr'] = sr_dummy
 from test_helper import run_common_tests, failed, passed, get_answer_placeholders
+import re
 
 
 def check_motor(s, target):
-    placeholder = s.strip().replace(" ", "")
+    placeholder = re.sub(r'#.*', '', s.strip().replace(" ", ""))
     if placeholder.startswith("[0].target="):
         if placeholder == "[0].target="+str(target):
             return ""

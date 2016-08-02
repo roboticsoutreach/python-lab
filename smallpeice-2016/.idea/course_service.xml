@@ -8,78 +8,6 @@
           <list>
             <Lesson>
               <option name="index" value="1" />
-              <option name="name" value="Python in Action" />
-              <option name="taskList">
-                <list>
-                  <Task>
-                    <option name="index" value="1" />
-                    <option name="name" value="Intro" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="2" />
-                    <option name="name" value="Using the Simulator" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="3" />
-                    <option name="name" value="Turning on motors" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="4" />
-                    <option name="name" value="Turning on the spot" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="5" />
-                    <option name="name" value="Seeing things" />
-                  </Task>
-                </list>
-              </option>
-            </Lesson>
-            <Lesson>
-              <option name="index" value="2" />
-              <option name="name" value="Applying Python to Robots" />
-              <option name="taskList">
-                <list>
-                  <Task>
-                    <option name="index" value="1" />
-                    <option name="name" value="Intro" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="2" />
-                    <option name="name" value="Using the Simulator" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="3" />
-                    <option name="name" value="Moving motors" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="4" />
-                    <option name="name" value="Turning on the spot" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="5" />
-                    <option name="name" value="Seeing things" />
-                  </Task>
-                  <Task>
-                    <option name="index" value="6" />
-                    <option name="name" value="Getting the location of things" />
-                    <option name="taskFiles">
-                      <map>
-                        <entry key="task.py">
-                          <value>
-                            <TaskFile>
-                              <option name="index" value="1" />
-                              <option name="name" value="task.py" />
-                            </TaskFile>
-                          </value>
-                        </entry>
-                      </map>
-                    </option>
-                  </Task>
-                </list>
-              </option>
-            </Lesson>
-            <Lesson>
-              <option name="index" value="3" />
               <option name="name" value="Python in Robot" />
               <option name="taskList">
                 <list>
@@ -91,6 +19,18 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="23" />
+                                    <option name="possibleAnswer" value=" sr import *" />
+                                    <option name="start" value="4" />
+                                    <option name="taskText" value="  # Add your code here!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -107,6 +47,19 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="28" />
+                                    <option name="line" value="2" />
+                                    <option name="possibleAnswer" value="Robot()" />
+                                    <option name="start" value="4" />
+                                    <option name="taskText" value="None   # Add your code here!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -123,6 +76,27 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="22" />
+                                    <option name="line" value="9" />
+                                    <option name="possibleAnswer" value="[0].target = 100" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="  # Add your code here" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="24" />
+                                    <option name="line" value="15" />
+                                    <option name="possibleAnswer" value="[0].target = 0" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="  # Add  your code here!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -139,6 +113,43 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="23" />
+                                    <option name="line" value="10" />
+                                    <option name="possibleAnswer" value=".target = speed" />
+                                    <option name="start" value="15" />
+                                    <option name="taskText" value="  # Add your code here!" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="23" />
+                                    <option name="line" value="11" />
+                                    <option name="possibleAnswer" value=".target = -speed" />
+                                    <option name="start" value="15" />
+                                    <option name="taskText" value="  # Add your code here!" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="23" />
+                                    <option name="line" value="17" />
+                                    <option name="possibleAnswer" value=".target = 0" />
+                                    <option name="start" value="15" />
+                                    <option name="taskText" value="  # Add your code here!" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="3" />
+                                    <option name="length" value="23" />
+                                    <option name="line" value="18" />
+                                    <option name="possibleAnswer" value=".target = 0" />
+                                    <option name="start" value="15" />
+                                    <option name="taskText" value="  # Add your code here!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -155,6 +166,27 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="21" />
+                                    <option name="line" value="29" />
+                                    <option name="possibleAnswer" value=" for marker in see_output:&#10;        if marker.info.marker_type == marker_type_i_want:&#10;            token_markers.append(marker)&#10;    return token_markers" />
+                                    <option name="start" value="3" />
+                                    <option name="taskText" value="# Add your code here!" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="21" />
+                                    <option name="line" value="40" />
+                                    <option name="possibleAnswer" value="for marker in see_output:&#10;        if marker.info.marker_type == marker_type_i_want:&#10;            token_markers.append(marker)&#10;    return token_markers" />
+                                    <option name="start" value="4" />
+                                    <option name="taskText" value="# Add your code here!" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -171,6 +203,19 @@
                         <entry key="task.py">
                           <value>
                             <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="20" />
+                                    <option name="line" value="40" />
+                                    <option name="possibleAnswer" value="for m in see_output:&#10;        yield (m.polar.length, m.polar.rot_y)" />
+                                    <option name="start" value="4" />
+                                    <option name="taskText" value="# Add your code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
                               <option name="index" value="1" />
                               <option name="name" value="task.py" />
                             </TaskFile>
@@ -184,7 +229,7 @@
             </Lesson>
           </list>
         </option>
-        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v1.2.7" />
+        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v1.5.3" />
       </Course>
     </option>
   </component>

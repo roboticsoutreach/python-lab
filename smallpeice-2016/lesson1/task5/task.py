@@ -27,7 +27,15 @@ def find_token_markers(see_output):
     """
     token_markers = []
     marker_type_i_want = MARKER_TOKEN
-    pass  # Add your code here!
+   # Add your code here!
+
+def find_poison_markers(see_output):
+    """
+        This should return a list of of markers for the poison token
+    """
+    token_markers = []
+    marker_type_i_want = MARKER_POISON_TOKEN
+    # Add your code here!
 
 # Turn to the right to see the markers next to the robot
 turn(100, 0.15)

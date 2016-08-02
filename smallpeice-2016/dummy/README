@@ -1,0 +1,6 @@
+This is the dummy library used for code checking in the IDE.
+
+It provides the same interface as pyenv, but doesn't do anything.
+
+The check-ref.py file is a sample usage of the interfaces, but is not definitive.
+It is intended as a useful file for developing the IDE code checker against, and as validation for the dummy pyenv file.
