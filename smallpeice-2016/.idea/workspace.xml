@@ -2,68 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a589814-ec35-4ade-b954-20c8eaa986a2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task4/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task5/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task1/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task2/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task3/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task4/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task5/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson2/task6/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task1/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task2/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task3/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task4/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task5/tests.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/task.answer.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/task.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/task.py" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson3/task6/tests.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/games/ctf-single.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/games/ctf.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/games/pirate_plunder.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/games/smallpeice-2016.yaml" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/games/sunny_side_up.yaml" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/sr_dummy.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/task.answer.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/task.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lesson1/task7/tests.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/.idea/encodings.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/.idea/study_project.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/.idea/untitled26.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled26/test_helper.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/../untitled38/.idea/study_project.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../simulator/simulator.egg-info/PKG-INFO" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../simulator/simulator.egg-info/SOURCES.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../simulator/simulator.egg-info/dependency_links.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../simulator/simulator.egg-info/top_level.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/../simulator/simulator/run.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/podium.png" afterPath="$PROJECT_DIR$/../simulator/simulator/images/podium.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/robot.png" afterPath="$PROJECT_DIR$/../simulator/simulator/images/robot.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/sr_round_flat.png" afterPath="$PROJECT_DIR$/../simulator/simulator/images/sr_round_flat.png" />
@@ -71,8 +26,11 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/token_grabbed.png" afterPath="$PROJECT_DIR$/../simulator/simulator/images/token_grabbed.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/wall.png" afterPath="$PROJECT_DIR$/../simulator/simulator/images/wall.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/wall_marker.png" afterPath="$PROJECT_DIR$/../simulator/simulator/images/wall_marker.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.gitignore" afterPath="$PROJECT_DIR$/../.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../README.md" afterPath="$PROJECT_DIR$/../README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../.idea/vcs.xml" afterPath="$PROJECT_DIR$/../.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/.idea/misc.xml" afterPath="$PROJECT_DIR$/../simulator/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/.idea/modules.xml" afterPath="$PROJECT_DIR$/../simulator/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/.idea/simulator.iml" afterPath="$PROJECT_DIR$/../simulator/.idea/simulator.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/.idea/workspace.xml" afterPath="$PROJECT_DIR$/../simulator/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/setup.py" afterPath="$PROJECT_DIR$/../simulator/setup.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/__init__.py" afterPath="$PROJECT_DIR$/../simulator/simulator/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/arenas/__init__.py" afterPath="$PROJECT_DIR$/../simulator/simulator/arenas/__init__.py" />
@@ -83,38 +41,35 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/arenas/sunny_side_up_arena.py" afterPath="$PROJECT_DIR$/../simulator/simulator/arenas/sunny_side_up_arena.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/display.py" afterPath="$PROJECT_DIR$/../simulator/simulator/display.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/game_object.py" afterPath="$PROJECT_DIR$/../simulator/simulator/game_object.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/games/__init__.py" afterPath="$PROJECT_DIR$/../simulator/simulator/games/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/games/ctf-single.yaml" afterPath="$PROJECT_DIR$/../simulator/simulator/games/ctf-single.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/games/ctf.yaml" afterPath="$PROJECT_DIR$/../simulator/simulator/games/ctf.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/games/pirate_plunder.yaml" afterPath="$PROJECT_DIR$/../simulator/simulator/games/pirate_plunder.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/games/smallpeice-2016.yaml" afterPath="$PROJECT_DIR$/../simulator/simulator/games/smallpeice-2016.yaml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/games/sunny_side_up.yaml" afterPath="$PROJECT_DIR$/../simulator/simulator/games/sunny_side_up.yaml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/images/__init__.py" afterPath="$PROJECT_DIR$/../simulator/simulator/images/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/markers.py" afterPath="$PROJECT_DIR$/../simulator/simulator/markers.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/run.py" afterPath="$PROJECT_DIR$/../simulator/simulator/run.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/sim_robot.py" afterPath="$PROJECT_DIR$/../simulator/simulator/sim_robot.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/simulator.py" afterPath="$PROJECT_DIR$/../simulator/simulator/simulator.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../simulator/simulator/vision.py" afterPath="$PROJECT_DIR$/../simulator/simulator/vision.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/course_service.xml" afterPath="$PROJECT_DIR$/.idea/course_service.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/smallpeice-2016.iml" afterPath="$PROJECT_DIR$/.idea/smallpeice-2016.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/__init__.py" afterPath="$PROJECT_DIR$/__init__.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task1/task.answer.py" afterPath="$PROJECT_DIR$/lesson1/task1/task.answer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task1/task.html" afterPath="$PROJECT_DIR$/lesson1/task1/task.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task1/task.py" afterPath="$PROJECT_DIR$/lesson1/task1/task.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task1/tests.py" afterPath="$PROJECT_DIR$/lesson1/task1/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task2/task.answer.py" afterPath="$PROJECT_DIR$/lesson1/task2/task.answer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/course.json" afterPath="$PROJECT_DIR$/course.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task2/task.html" afterPath="$PROJECT_DIR$/lesson1/task2/task.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task2/task.py" afterPath="$PROJECT_DIR$/lesson1/task2/task.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task2/tests.py" afterPath="$PROJECT_DIR$/lesson1/task2/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task3/task.answer.py" afterPath="$PROJECT_DIR$/lesson1/task3/task.answer.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task3/task.html" afterPath="$PROJECT_DIR$/lesson1/task3/task.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task3/task.py" afterPath="$PROJECT_DIR$/lesson1/task3/task.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task3/tests.py" afterPath="$PROJECT_DIR$/lesson1/task3/tests.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/test_helper.py" afterPath="$PROJECT_DIR$/test_helper.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task5/task.html" afterPath="$PROJECT_DIR$/lesson1/task5/task.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task5/task.py" afterPath="$PROJECT_DIR$/lesson1/task5/task.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task5/tests.py" afterPath="$PROJECT_DIR$/lesson1/task5/tests.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task6/task.answer.py" afterPath="$PROJECT_DIR$/lesson1/task6/task.answer.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task6/task.html" afterPath="$PROJECT_DIR$/lesson1/task6/task.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task6/task.py" afterPath="$PROJECT_DIR$/lesson1/task6/task.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lesson1/task6/tests.py" afterPath="$PROJECT_DIR$/lesson1/task6/tests.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sr/setup.py" afterPath="$PROJECT_DIR$/../sr/setup.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sr/sr.egg-info/PKG-INFO" afterPath="$PROJECT_DIR$/../sr/sr.egg-info/PKG-INFO" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sr/sr.egg-info/SOURCES.txt" afterPath="$PROJECT_DIR$/../sr/sr.egg-info/SOURCES.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sr/sr.egg-info/dependency_links.txt" afterPath="$PROJECT_DIR$/../sr/sr.egg-info/dependency_links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sr/sr.egg-info/top_level.txt" afterPath="$PROJECT_DIR$/../sr/sr.egg-info/top_level.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../sr/sr/__init__.py" afterPath="$PROJECT_DIR$/../sr/sr/__init__.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../test.py" afterPath="$PROJECT_DIR$/../test.py" />
     </list>
@@ -147,102 +102,112 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="task.answer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task3/task.answer.py">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task4/tests.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="28" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sr_dummy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task5/sr_dummy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task4/tests.py">
+      <file leaf-file-name="tests.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lesson1/task7/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.12993763">
+              <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sr_dummy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task6/sr_dummy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="sr_dummy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task7/sr_dummy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="task.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task4/task.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task.answer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task4/task.answer.py">
+        <entry file="file://$PROJECT_DIR$/lesson1/task7/task.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task5/tests.py">
+        <entry file="file://$PROJECT_DIR$/lesson1/task6/tests.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task5/task.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task.answer.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task5/task.answer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="tests.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task6/tests.py">
+        <entry file="file://$PROJECT_DIR$/lesson1/task5/tests.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="time_dummy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task4/time_dummy.py">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
+              <folding>
+                <element signature="e#38#56#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="task.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lesson3/task6/task.html">
+      <file leaf-file-name="task.answer.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lesson1/task7/task.answer.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="task.answer.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lesson3/task6/task.answer.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.019693654">
-              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.0">
+              <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -267,39 +232,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/sr/robot/sim_robot.py" />
-        <option value="$PROJECT_DIR$/lesson1/task1/task.md" />
-        <option value="$PROJECT_DIR$/lesson1/task1/test.html" />
-        <option value="$PROJECT_DIR$/course.json" />
-        <option value="$PROJECT_DIR$/sr/vision.py" />
-        <option value="$PROJECT_DIR$/lesson1/task1/task.py" />
-        <option value="$PROJECT_DIR$/sr/markers.py" />
-        <option value="$PROJECT_DIR$/sr/sim_robot.py" />
-        <option value="$PROJECT_DIR$/sr/arenas/arena.py" />
-        <option value="$PROJECT_DIR$/sr/arenas/ctf_arena.py" />
-        <option value="$PROJECT_DIR$/sr/arenas/smallpeice_2016_arena.py" />
-        <option value="$PROJECT_DIR$/sr/simulator.py" />
-        <option value="$PROJECT_DIR$/simulator/markers.py" />
-        <option value="$PROJECT_DIR$/simulator/arenas/ctf_arena.py" />
-        <option value="$PROJECT_DIR$/simulator/arenas/smallpeice_2016_arena.py" />
-        <option value="$PROJECT_DIR$/sr/robot_import_run.py" />
-        <option value="$PROJECT_DIR$/test.py" />
-        <option value="$PROJECT_DIR$/lesson1/task1/task.html" />
-        <option value="$PROJECT_DIR$/lesson1/task2/task.answer.py" />
-        <option value="$PROJECT_DIR$/lesson1/task1/tests.py" />
-        <option value="$PROJECT_DIR$/simulator/arenas/arena.py" />
-        <option value="$PROJECT_DIR$/simulator/arenas/__init__.py" />
-        <option value="$PROJECT_DIR$/run.py" />
-        <option value="$PROJECT_DIR$/task.answer.py" />
-        <option value="$PROJECT_DIR$/simulator/simulator.py" />
-        <option value="$PROJECT_DIR$/simulator/run.py" />
-        <option value="$PROJECT_DIR$/sr/autorun/__init__.py" />
-        <option value="$PROJECT_DIR$/sr/autorun.py" />
-        <option value="$PROJECT_DIR$/sr/setup.py" />
-        <option value="$PROJECT_DIR$/simulator/__init__.py" />
-        <option value="$PROJECT_DIR$/simulator/sim_robot.py" />
-        <option value="$PROJECT_DIR$/sr/__init__.py" />
-        <option value="$PROJECT_DIR$/simulator/simulator/arenas/arena.py" />
         <option value="$PROJECT_DIR$/simulator/simulator/arenas/ctf_arena.py" />
         <option value="$PROJECT_DIR$/simulator/simulator/arenas/pirate_plunder_arena.py" />
         <option value="$PROJECT_DIR$/simulator/simulator/arenas/smallpeice_2016_arena.py" />
@@ -307,17 +239,50 @@
         <option value="$PROJECT_DIR$/sr/sr/__init__.py" />
         <option value="$PROJECT_DIR$/simulator/simulator/simulator.py" />
         <option value="$PROJECT_DIR$/lesson1/task1/task.answer.py" />
-        <option value="$PROJECT_DIR$/lesson1/task2/task.html" />
         <option value="$PROJECT_DIR$/lesson1/task3/task.html" />
         <option value="$PROJECT_DIR$/lesson1/task3/task.answer.py" />
         <option value="$PROJECT_DIR$/lesson1/task4/task.html" />
-        <option value="$PROJECT_DIR$/test_helper.py" />
         <option value="$PROJECT_DIR$/lesson1/task4/task.answer.py" />
-        <option value="$PROJECT_DIR$/lesson1/task5/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson3/task6/tests.py" />
+        <option value="$PROJECT_DIR$/lesson3/task1/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson3/task1/task.html" />
+        <option value="$PROJECT_DIR$/lesson3/task1/tests.py" />
+        <option value="$PROJECT_DIR$/lesson3/task2/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson3/task2/task.html" />
+        <option value="$PROJECT_DIR$/lesson3/task2/tests.py" />
+        <option value="$PROJECT_DIR$/lesson3/task3/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson3/task3/task.html" />
+        <option value="$PROJECT_DIR$/lesson3/task3/tests.py" />
+        <option value="$PROJECT_DIR$/lesson3/task4/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson3/task4/task.html" />
+        <option value="$PROJECT_DIR$/lesson3/task4/tests.py" />
+        <option value="$PROJECT_DIR$/lesson3/task5/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson3/task5/task.html" />
+        <option value="$PROJECT_DIR$/lesson3/task5/tests.py" />
+        <option value="$PROJECT_DIR$/hello.py" />
+        <option value="$PROJECT_DIR$/wtf.py" />
+        <option value="$PROJECT_DIR$/test_helper.py" />
+        <option value="$PROJECT_DIR$/lesson1/task1/sr_dummy.py" />
+        <option value="$PROJECT_DIR$/lesson1/task2/sr_dummy.py" />
+        <option value="$PROJECT_DIR$/lesson1/task1/tests.py" />
+        <option value="$PROJECT_DIR$/lesson1/task4/sr_dummy.py" />
         <option value="$PROJECT_DIR$/lesson1/task2/tests.py" />
+        <option value="$PROJECT_DIR$/lesson1/task3/time_dummy.py" />
+        <option value="$PROJECT_DIR$/lesson1/task3/sr_dummy.py" />
         <option value="$PROJECT_DIR$/lesson1/task3/tests.py" />
-        <option value="$PROJECT_DIR$/lesson1/task5/tests.py" />
         <option value="$PROJECT_DIR$/lesson1/task4/tests.py" />
+        <option value="$PROJECT_DIR$/lesson1/task5/sr_dummy.py" />
+        <option value="$PROJECT_DIR$/lesson1/task5/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson1/task6/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson1/task5/tests.py" />
+        <option value="$PROJECT_DIR$/lesson1/task6/tests.py" />
+        <option value="$PROJECT_DIR$/lesson1/task2/task.html" />
+        <option value="$PROJECT_DIR$/lesson1/task5/task.html" />
+        <option value="$PROJECT_DIR$/lesson1/task6/task.html" />
+        <option value="$PROJECT_DIR$/lesson1/task6/sr_dummy.py" />
+        <option value="$PROJECT_DIR$/lesson1/task7/task.html" />
+        <option value="$PROJECT_DIR$/lesson1/task7/task.answer.py" />
+        <option value="$PROJECT_DIR$/lesson1/task7/tests.py" />
       </list>
     </option>
   </component>
@@ -328,9 +293,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="36" />
-    <option name="width" value="1920" />
-    <option name="height" value="1025" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1096" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
@@ -339,7 +305,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="1" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectView">
@@ -357,7 +323,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -365,6 +330,10 @@
               <option name="myItemId" value="smallpeice-2016" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -373,6 +342,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="smallpeice-2016" />
+              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smallpeice-2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smallpeice-2016" />
+              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="dummy" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,7 +369,25 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
+              <option name="myItemId" value="lesson1" />
+              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="task7" />
+              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smallpeice-2016" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="smallpeice-2016" />
+              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -404,7 +405,7 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -422,7 +423,7 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -440,7 +441,7 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -458,7 +459,7 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -476,7 +477,7 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="lesson3" />
+              <option name="myItemId" value="lesson1" />
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
@@ -484,36 +485,9 @@
               <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallpeice-2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallpeice-2016" />
-              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson2" />
-              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallpeice-2016" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="smallpeice-2016" />
-              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lesson1" />
-              <option name="myItemType" value="com.jetbrains.edu.coursecreator.projectView.CCDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -526,6 +500,22 @@
     <property name="recentsLimit" value="5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="js-jscs-nodeInterpreter" value="C:\Program Files\nodejs\node.exe" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="433" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="462" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="463" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1137" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="459" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="457" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="459" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1133" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -538,6 +528,13 @@
     </option>
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Documents\Coding\smallpeice-2016\smallpeice-2016\lesson1\task7" />
+      <recent name="D:\Documents\Coding\smallpeice-2016\smallpeice-2016\lesson1\task1" />
+      <recent name="D:\Documents\Coding\smallpeice-2016\smallpeice-2016\lesson1\task2" />
+      <recent name="D:\Documents\Coding\smallpeice-2016\smallpeice-2016\lesson1\task3" />
+      <recent name="D:\Documents\Coding\smallpeice-2016\smallpeice-2016\lesson1\task4" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Documents\Coding\smallpeice-2016\simulator" />
       <recent name="D:\Documents\Coding\smallpeice-2016\simulator\simulator" />
@@ -545,109 +542,8 @@
       <recent name="$PROJECT_DIR$/sr" />
       <recent name="$PROJECT_DIR$/sr/sr" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/lesson2/task5" />
-      <recent name="$PROJECT_DIR$/lesson2/task4" />
-      <recent name="$PROJECT_DIR$/lesson2/task3" />
-      <recent name="$PROJECT_DIR$/lesson2/task2" />
-      <recent name="$PROJECT_DIR$/lesson2/task1" />
-    </key>
   </component>
-  <component name="RunManager" selected="Python.task.answer (4)">
-    <configuration default="false" name="tests" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson1/task3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="smallpeice-2016" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1/task3/tests.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="task.answer (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson1/task5" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="smallpeice-2016" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1/task5/task.answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="task.answer (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson1/task4" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="smallpeice-2016" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson1/task4/task.answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="Nosetests in smallpeice-2016" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="smallpeice-2016" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="" />
-      <option name="CLASS_NAME" value="" />
-      <option name="METHOD_NAME" value="" />
-      <option name="FOLDER_NAME" value="$PROJECT_DIR$" />
-      <option name="TEST_TYPE" value="TEST_FOLDER" />
-      <option name="PATTERN" value="" />
-      <option name="USE_PATTERN" value="false" />
-      <option name="PARAMS" value="" />
-      <option name="USE_PARAM" value="false" />
-      <method />
-    </configuration>
-    <configuration default="false" name="task.answer (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/lesson2/task3" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="smallpeice-2016" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lesson2/task3/task.answer.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -794,23 +690,9 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <method />
     </configuration>
-    <list size="6">
+    <list size="1">
       <item index="0" class="java.lang.String" itemvalue="Python.task.answer" />
-      <item index="1" class="java.lang.String" itemvalue="Python.tests" />
-      <item index="2" class="java.lang.String" itemvalue="Python.task.answer (1)" />
-      <item index="3" class="java.lang.String" itemvalue="Python.task.answer (3)" />
-      <item index="4" class="java.lang.String" itemvalue="Python tests.Nosetests in smallpeice-2016" />
-      <item index="5" class="java.lang.String" itemvalue="Python.task.answer (4)" />
     </list>
-    <recent_temporary>
-      <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.task.answer (4)" />
-        <item index="1" class="java.lang.String" itemvalue="Python tests.Nosetests in smallpeice-2016" />
-        <item index="2" class="java.lang.String" itemvalue="Python.task.answer (3)" />
-        <item index="3" class="java.lang.String" itemvalue="Python.tests" />
-        <item index="4" class="java.lang.String" itemvalue="Python.task.answer (1)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
   <component name="SvnConfiguration">
@@ -840,12 +722,12 @@
     </history-entry>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="36" width="1920" height="1025" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1096" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15567282" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32626262" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18787879" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13856691" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3242424" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4010101" sideWeight="0.4978678" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -854,10 +736,10 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.22637591" sideWeight="0.51599145" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2340195" sideWeight="0.48400852" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.410101" sideWeight="0.48400852" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32917964" sideWeight="0.49573562" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32624868" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32525253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -879,7 +761,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit, fork from https://www.studentrobotics.org/cgit/simulator.git/" />
     <MESSAGE value="Move things around, change directory structure so that anything that calls from `sr import *` runs the simulator" />
-    <option name="LAST_COMMIT_MESSAGE" value="Move things around, change directory structure so that anything that calls from `sr import *` runs the simulator" />
+    <MESSAGE value="'fix all the things'" />
+    <MESSAGE value="Make everything that already worked or kind of worked work better." />
+    <option name="LAST_COMMIT_MESSAGE" value="Make everything that already worked or kind of worked work better." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -894,68 +778,24 @@
           <line>1</line>
           <option name="timeStamp" value="8" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="python-line">
+          <url>file://$PROJECT_DIR$/lesson1/task7/sr_dummy.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
       </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="9" />
+      <option name="time" value="12" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/test_helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task1/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task1/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task1/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task3/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="7" selection-start-line="15" selection-start-column="7" selection-end-line="15" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task1/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task2/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="3" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task5/task.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -966,17 +806,150 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_helper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="174" column="34" selection-start-line="174" selection-start-column="34" selection-end-line="174" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task3/task.py">
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/task.answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/task.answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="14" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Roaming/Python/Python27/site-packages/pygame/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="132" column="0" selection-start-line="132" selection-start-column="0" selection-end-line="132" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="48" column="13" selection-start-line="48" selection-start-column="13" selection-end-line="48" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharmEdu20/system/python_stubs/-762174762/imp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="106" column="0" selection-start-line="106" selection-start-column="0" selection-end-line="106" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/checkref.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/README">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="6" column="0" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/test">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="15.038462">
+          <caret line="32" column="30" selection-start-line="32" selection-start-column="30" selection-end-line="32" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dummy/sr.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="28" column="8" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="44" selection-start-line="9" selection-start-column="44" selection-end-line="9" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/pypy-2.1/lib-python/2.7/multiprocessing/synchronize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.74281394">
+          <caret line="330" column="8" selection-start-line="330" selection-start-column="8" selection-end-line="330" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task3/time_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_helper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.172414">
+          <caret line="170" column="23" selection-start-line="170" selection-start-column="23" selection-end-line="170" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="24" selection-start-line="7" selection-start-column="24" selection-end-line="7" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -987,308 +960,212 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task4/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="62" selection-start-line="4" selection-start-column="62" selection-end-line="4" selection-end-column="62" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task3/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="14" column="9" selection-start-line="14" selection-start-column="9" selection-end-line="14" selection-end-column="9" />
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="55" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/Python27/Lib/site-packages/simulator/vision.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.5173745">
+          <caret line="35" column="14" selection-start-line="35" selection-start-column="14" selection-end-line="35" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task4/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task3/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task1/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03217503">
+          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/task.answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="45" selection-start-line="42" selection-start-column="45" selection-end-line="42" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/task.answer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="24" selection-start-line="22" selection-start-column="0" selection-end-line="32" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task4/task.answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="18" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task4/tests.py">
+    <entry file="file://C:/Python27/Lib/site-packages/simulator/sim_robot.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="16" selection-start-line="45" selection-start-column="16" selection-end-line="45" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.76611227">
+          <caret line="225" column="45" selection-start-line="225" selection-start-column="45" selection-end-line="225" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task2/task.html">
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/task.answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="7" column="4" selection-start-line="7" selection-start-column="4" selection-end-line="7" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task2/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task2/task.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson1/task1/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="15" selection-start-line="0" selection-start-column="15" selection-end-line="0" selection-end-column="15" />
+          <caret line="2" column="5" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="11" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task1/task.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-14.0">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="2" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task2/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941">
+          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task3/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task4/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-3.6764705">
+          <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941">
+          <caret line="1" column="17" selection-start-line="1" selection-start-column="17" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/task.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.7352941">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="55" column="0" selection-start-line="55" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task5/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="50" column="0" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task6/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="4" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="5" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lesson1/task5/tests.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task6/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task1/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task2/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task3/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="19" column="0" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="30" />
           <folding>
-            <element signature="e#87#98#0" expanded="true" />
+            <element signature="e#0#10#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task3/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="10" column="39" selection-start-line="10" selection-start-column="39" selection-end-line="10" selection-end-column="39" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task4/task.answer.py">
+    <entry file="file://$PROJECT_DIR$/lesson1/task4/time_dummy.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#38#56#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task4/tests.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/sr_dummy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="0" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task5/task.answer.py">
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/task.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="6" selection-start-line="16" selection-start-column="6" selection-end-line="16" selection-end-column="6" />
+          <caret line="21" column="56" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task5/tests.py">
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/task.answer.py">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="32" column="14" selection-start-line="32" selection-start-column="14" selection-end-line="32" selection-end-column="14" />
+          <caret line="78" column="44" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task6/task.html">
+    <entry file="file://$PROJECT_DIR$/lesson1/task7/tests.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task6/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson2/task1/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task1/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task1/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task1/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task2/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task2/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task2/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task3/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task3/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task3/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task4/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task4/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task4/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task5/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task5/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task5/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task6/tests.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task6/task.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lesson3/task6/task.answer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.019693654">
-          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-          <folding />
+        <state vertical-scroll-proportion="0.12993763">
+          <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

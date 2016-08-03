@@ -1,28 +1,23 @@
-import sr_dummy
 import sys
+
+import sr_dummy
+
 sys.modules['sr'] = sr_dummy
-import time
-import threading
 import copy
-from Queue import Queue
-from multiprocessing.pool import ThreadPool
 from simulator.vision import *
 
+from test_helper import run_common_tests, failed, passed, import_task_file
 
-from test_helper import run_common_tests, failed, passed, get_answer_placeholders, import_task_file
 
-class Marker(object):
+class Marker(sr_dummy.Marker):
     def __init__(self, type):
-        self.info.marker_type = type
+        self.info = MarkerInfo(0, type, 0, 1)
 
 
 def test_answers():
     task = import_task_file()
     markers = [Marker(MARKER_POISON_TOKEN), Marker(MARKER_TOKEN), Marker(MARKER_TOKEN), Marker(MARKER_TOKEN)]
-    backup_markers = copy.deepcopy(markers)
     filtered_markers = task.find_token_markers(markers)
-    if backup_markers != markers:
-        failed("You shouldn't need to modify the list of markers!")
     if not filtered_markers:
         failed("Your find_tokens_markers must return something")
     elif filtered_markers is [x for x in markers if x.info.marker_type is MARKER_TOKEN]:

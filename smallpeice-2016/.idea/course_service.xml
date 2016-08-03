@@ -3,6 +3,11 @@
   <component name="CCProjectService">
     <option name="course">
       <Course>
+        <option name="authors">
+          <list>
+            <Author />
+          </list>
+        </option>
         <option name="description" value="The robot-specific programming section of the 2016 computing and microelectronics course" />
         <option name="lessons">
           <list>
@@ -208,10 +213,55 @@
                                   <AnswerPlaceholder>
                                     <option name="index" value="0" />
                                     <option name="length" value="20" />
-                                    <option name="line" value="40" />
+                                    <option name="line" value="41" />
                                     <option name="possibleAnswer" value="for m in see_output:&#10;        yield (m.polar.length, m.polar.rot_y)" />
                                     <option name="start" value="4" />
                                     <option name="taskText" value="# Add your code here" />
+                                  </AnswerPlaceholder>
+                                </list>
+                              </option>
+                              <option name="highlightErrors" value="true" />
+                              <option name="index" value="1" />
+                              <option name="name" value="task.py" />
+                            </TaskFile>
+                          </value>
+                        </entry>
+                      </map>
+                    </option>
+                  </Task>
+                  <Task>
+                    <option name="index" value="7" />
+                    <option name="name" value="Aligning with markers" />
+                    <option name="taskFiles">
+                      <map>
+                        <entry key="task.py">
+                          <value>
+                            <TaskFile>
+                              <option name="answerPlaceholders">
+                                <list>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="0" />
+                                    <option name="length" value="57" />
+                                    <option name="line" value="85" />
+                                    <option name="possibleAnswer" value="tokens.sort(key=lambda x: x.dist)&#10;            m = tokens[0]" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="m = # Find the closest token from tokens, and set it to m" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="1" />
+                                    <option name="length" value="76" />
+                                    <option name="line" value="91" />
+                                    <option name="possibleAnswer" value="turn(R, 50, 0.5)&#10;                    drive(R, 50, 1)&#10;                    R.release()&#10;                    drive(R, -50, 0.5)" />
+                                    <option name="start" value="20" />
+                                    <option name="taskText" value="R.release() # Drive to the centre and drop the token off in the scoring zone" />
+                                  </AnswerPlaceholder>
+                                  <AnswerPlaceholder>
+                                    <option name="index" value="2" />
+                                    <option name="length" value="46" />
+                                    <option name="line" value="99" />
+                                    <option name="possibleAnswer" value="elif -15 &lt;= m.rot_y &lt;= 15:&#10;                print &quot;Ah, that'll do.&quot;&#10;                drive(R, 50, 0.5)&#10;&#10;            elif m.rot_y &lt; -15:&#10;                print &quot;Left a bit...&quot;&#10;                turn(R, -12.5, 0.5)&#10;&#10;            elif m.rot_y &gt; 15:&#10;                print &quot;Right a bit...&quot;&#10;                turn(R, 12.5, 0.5)" />
+                                    <option name="start" value="12" />
+                                    <option name="taskText" value="#  turn and drive the robot towards the marker" />
                                   </AnswerPlaceholder>
                                 </list>
                               </option>
@@ -229,7 +279,7 @@
             </Lesson>
           </list>
         </option>
-        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v1.6.8" />
+        <option name="name" value="Smallpeice Computing and Microelectronics 2016 v2.0.4" />
       </Course>
     </option>
   </component>

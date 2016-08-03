@@ -1,0 +1,35 @@
+<html>
+    <h1>Aligning with markers</h1>
+        <strong>This task has no tests!</strong> if you completely finish this task, you'll be in a very good standing for
+        winning the competition on Friday!
+    <br><br>
+        You can use this code as a base for the code for your robot! Just create a new 'Pure Python' Project with a file
+        named 'robot.py' and paste this code in. Copy the robot.py to your USB stick whenever you want to run it on your
+        robot!
+    <br><br>
+        In this task, you've got the basic framework for a robot, but you want make it actually drive towards the nearest token
+        and grab it!
+    <br><br>
+        Notice that the code provided to you has a 'state' variable, this is very useful as it is much easier to keep
+        track of what the robot is currently doing with a variable than it is with 'if' statements, as you can go from any
+        state to any other state very easily.
+    <br><br>
+        The first task you should do is figure a way to get the closest visible marker, check the documentation if you
+        aren't sure how to get the distance. Then you should add a way of moving the robot based on where the token is, then
+        you should add some code to carry the token to your scoring arena. You have the rest of the week to get this task done!
+    <br><br>
+    <h2>Differences between the real life and the simulator:</h2>
+        There are a few things to point out that are different in the simulator then they are in the real world:
+    <ul>
+        <li> The simulator models tokens as 1 marker each, the real world may see many of the same marker at the same time, as
+        tokens have multiple faces, each with a different marker on.</li>
+        <li>The position of the marker of the token in the simulator shows them as being in the centre of the token. The
+            location of the centres of the markers in the real world will be the centre of the face which the marker is on.
+        This means you could be 5cm off if you're trying to get to the centre of the token as opposed to the bit the robot
+            can see.</li>
+        <li>You can get the orientation of markers in the real robots (i.e. its rotation relative to the robot), however
+            this feature is not yet supported in the simulator.</li>
+        <li>There is a poison token on the centre of the arena. This token is not available in the simulator as there is
+        no way of picking it up</li>
+    </ul>
+</html>

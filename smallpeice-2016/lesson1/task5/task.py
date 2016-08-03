@@ -38,7 +38,7 @@ def find_poison_markers(see_output):
     # Add your code here!
 
 # Turn to the right to see the markers next to the robot
-turn(100, 0.15)
+turn(100, 0.31)
 
 print "looking..."
 

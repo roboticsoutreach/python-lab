@@ -37,6 +37,7 @@ def find_token_markers(see_output):
 def get_distances(see_output):
     """
         This should return a list of polar co-ordinates of each marker
+        in the form of (distance, rotation around the y axis)
     """
     # Add your code here
 
